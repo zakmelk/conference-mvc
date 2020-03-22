@@ -1,2 +1,0 @@
-# conference-mvc
-Spring mvc
